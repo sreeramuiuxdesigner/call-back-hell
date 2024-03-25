@@ -1,0 +1,16 @@
+  body {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#callBackHell {
+  font-size: 3rem;
+  border: 1px solid rgb(104, 52, 0);
+  padding: 20px;
+  background-color: aqua;
+  border-radius: 5px;
+}
